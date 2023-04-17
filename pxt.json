@@ -1,0 +1,58 @@
+{
+    "name": "hero's-labyrinth2",
+    "version": "0.0.0",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "custom.ts",
+        "image.ts",
+        "cell.ts",
+        "sword.ts",
+        "cell_type.ts",
+        "board.ts",
+        "hero.ts",
+        "game.ts",
+        "direction.ts",
+        "level.ts",
+        "oxygen.ts",
+        "obstacle.ts",
+        "key.ts",
+        "enemy.ts",
+        "position.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "testDependencies": {},
+    "targetVersions": {
+        "target": "1.12.29",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#889a92",
+        "#49c893",
+        "#5ce0a9",
+        "#31b07b",
+        "#e39538",
+        "#ce8732",
+        "#d98a2d",
+        "#cfd8dc",
+        "#b0bec5",
+        "#90a4ae",
+        "#78909c",
+        "#455a64",
+        "#303f46",
+        "#37474f",
+        "#ffffff",
+        "#263238"
+    ]
+}
